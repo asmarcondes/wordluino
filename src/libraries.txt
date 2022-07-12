@@ -1,0 +1,5 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+MD_Parola
+SdFat - Adafruit Fork
+FastLED
