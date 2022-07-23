@@ -1,4 +1,4 @@
-# Woodle
+# Wordluino
 
 ## Table of Contents
     
@@ -8,7 +8,7 @@
 
 ## About <a name = "about"></a>
 
-Woodle é uma ideia de projeto utilizando Arduino para construir uma versão física do jogo Wordle (ou Termo, na versão brasileira).
+Wordluino é uma ideia de projeto utilizando Arduino para construir uma versão física do jogo Wordle (ou Termo, na versão brasileira).
 
 ## Getting Started <a name = "getting_started"></a>
 
